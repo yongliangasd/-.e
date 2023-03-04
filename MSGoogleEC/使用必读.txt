@@ -1,0 +1,1 @@
+win10以下系统会自动将DLL写入 C盘的 windows目录下 win10系统用户 请使用管理员运行 或者 手动将两个DLL 放置 C:\Windows 目录下
